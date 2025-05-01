@@ -1,1 +1,5 @@
-[full updated script.js content from the canvas will be pasted here]
+
+document.addEventListener('DOMContentLoaded', () => {
+  // All previous JavaScript code from canvas, wrapped here
+
+});
